@@ -52,6 +52,7 @@ const GameProvider = ({ children }) => {
         to,
         setTo,
         setFrom,
+        passCard,
       }}
     >
       {children}
