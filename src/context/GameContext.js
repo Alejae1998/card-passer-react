@@ -51,6 +51,7 @@ const GameProvider = ({ children }) => {
         playerThreeHand,
         to,
         setTo,
+        setFrom,
       }}
     >
       {children}
