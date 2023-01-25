@@ -1,5 +1,7 @@
 # React Half Baked Card Passer Challenge
 
+![](./public/planning.png)
+
 ## Demo
 
 [Link to Demo](https://alchemy-card-passer.netlify.app/)
